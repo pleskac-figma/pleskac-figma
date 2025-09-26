@@ -1,11 +1,11 @@
 # Mark Pleskac
 
-_Software Developer, Figma_
+### Software Developer, Figma
+- 🖥️ Desktop Team
+- ☕ Coffee consumer (bulk)
+- ⛰️ Outdoor enthusiast
+- 🔗 [pleskac.org](https://pleskac.org/)
 
-🖥️ Desktop Team
-  
-☕ Coffee consumer (bulk)
-
-⛰️ Outdoor enthusiast
-
-🔗 [pleskac.org](https://pleskac.org/)
+Formerly 
+- 📮 Dropbox (design systems) 
+- 🪟 Microsoft (azure boards)
